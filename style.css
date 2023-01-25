@@ -50,6 +50,7 @@ header > p {
 
 nav {
     background-color: var(--corterceira);
+    padding-left: 2vh;
 }
 
 nav > a {
